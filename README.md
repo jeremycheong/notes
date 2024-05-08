@@ -70,3 +70,4 @@
 * [局域网文件共享FileBrowser.md](./软件安装/局域网文件共享FileBrowser.md)
 * [昇腾服务器安装docker.md](./软件安装/昇腾服务器安装docker.md)
 * [离线安装vscode server 实现vscode远程登录.md](./软件安装/离线安装vscode%20server%20实现vscode远程登录.md)
+* [在ubuntu20.04上安装搜狗输入法问题.md](./软件安装/在ubuntu20.04上安装搜狗输入法问题.md)
