@@ -20,6 +20,8 @@
 * [在docker中启用gdb调试模式.md](./docker使用/在docker中启用gdb调试模式.md)
 * [将本地下载的镜像推到自建的docker仓库.md](./docker使用/将本地下载的镜像推到自建的docker仓库.md)
 * [非root用户加入docker用户组省去sudo.md](./docker使用/非root用户加入docker用户组省去sudo.md)
+* [docker-ce安装与卸载.md](./docker使用/docker-ce安装与卸载.md)
+* [nvidia docker 容器套件安装.md](./docker使用/nvidia%20docker%20容器套件安装.md)
 
 
 # git使用
@@ -71,3 +73,4 @@
 * [昇腾服务器安装docker.md](./软件安装/昇腾服务器安装docker.md)
 * [离线安装vscode server 实现vscode远程登录.md](./软件安装/离线安装vscode%20server%20实现vscode远程登录.md)
 * [在ubuntu20.04上安装搜狗输入法问题.md](./软件安装/在ubuntu20.04上安装搜狗输入法问题.md)
+* [nvidia驱动安装报错及解决.md](./软件安装/nvidia驱动安装报错及解决.md)
